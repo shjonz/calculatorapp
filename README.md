@@ -1,6 +1,7 @@
 ## Calculator Challenge
+![Calculatorbanner](https://github.com/shjonz/calculatorapp/assets/81726240/ef295484-7cd6-4b04-a00b-b603895be315)
 
-163 coding challenge 202
+163 coding challenge 2020
 
 Lesson plan
 3 lessons 
@@ -38,18 +39,26 @@ Lesson plan
 
 Images
 
+![Screenshot_1683612706](https://github.com/shjonz/calculatorapp/assets/81726240/65981200-716f-49b5-b798-bc1b4535710c)
+![Screenshot_1683612708](https://github.com/shjonz/calculatorapp/assets/81726240/f9c6889e-8c3c-4789-8efd-cd5f9b83676f)
+
 
 Video Demo
+
+[Uploading videodemo.webm…]()
+
 
 
 ## Han Yi Solution
 ----
 
+
+
 ## Installation
 ---
 
 Download the file
-1. ShjCalculatorApp
+1. ShjCalculatorApp/HanYiCalculatorApp
 2. Unzip at your desired location
 3. go to https://visualstudio.microsoft.com/vs/ to install visual studio IDE
 4. Install visual studio IDE
