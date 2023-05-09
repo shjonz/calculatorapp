@@ -1,5 +1,5 @@
 ## Calculator Challenge
-![Calculatorbanner](https://github.com/shjonz/calculatorapp/assets/81726240/ef295484-7cd6-4b04-a00b-b603895be315)
+<img src="https://github.com/shjonz/calculatorapp/assets/81726240/ef295484-7" width="200" height="200">
 
 163 coding challenge 2020
 
@@ -39,9 +39,10 @@ Lesson plan
 
 Images
 
-![Screenshot_1683612706](https://github.com/shjonz/calculatorapp/assets/81726240/65981200-716f-49b5-b798-bc1b4535710c)
-![Screenshot_1683612708](https://github.com/shjonz/calculatorapp/assets/81726240/f9c6889e-8c3c-4789-8efd-cd5f9b83676f)
 
+<img src="[https://your-image-url.type](https://github.com/shjonz/calculatorapp/assets/81726240/65981200-7)" width="192" height="416">
+
+<img src="![Screenshot_1683612708](https://github.com/shjonz/calculatorapp/assets/81726240/f9c6889e-8c3c-4789-8efd-cd5f9b83676f)" width="192" height="416">
 
 Video Demo
 
