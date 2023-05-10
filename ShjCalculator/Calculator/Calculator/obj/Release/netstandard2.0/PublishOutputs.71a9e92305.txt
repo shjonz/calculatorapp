@@ -1,0 +1,8 @@
+C:\Users\shjon\Documents\learning python\xamarin course udemy extra materials\Calculator.dll
+C:\Users\shjon\Documents\learning python\xamarin course udemy extra materials\Calculator.deps.json
+C:\Users\shjon\Documents\learning python\xamarin course udemy extra materials\Calculator.pdb
+C:\Users\shjon\Documents\learning python\xamarin course udemy extra materials\System.Numerics.Vectors.dll
+C:\Users\shjon\Documents\learning python\xamarin course udemy extra materials\Xamarin.Essentials.dll
+C:\Users\shjon\Documents\learning python\xamarin course udemy extra materials\Xamarin.Forms.Core.dll
+C:\Users\shjon\Documents\learning python\xamarin course udemy extra materials\Xamarin.Forms.Platform.dll
+C:\Users\shjon\Documents\learning python\xamarin course udemy extra materials\Xamarin.Forms.Xaml.dll

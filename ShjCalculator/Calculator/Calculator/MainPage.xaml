@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculator.MainPage">
+
+    <ContentPage.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="WidthRequest" Value="40" />
+            <Setter Property="HeightRequest" Value="40"/>
+            <Setter Property="BorderRadius" Value="20"/>
+            <Setter Property="TextColor" Value="White"/>
+            <Setter Property="FontSize" Value="25"/>
+        </Style>
+
+    </ContentPage.Resources>
+
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <OnPlatform.iOS>0,20,0,0</OnPlatform.iOS>
+        </OnPlatform>
+    </ContentPage.Padding>
+
+    <!-- original #2196F3
+        <Frame Padding="30" BackgroundColor="#2196F3" CornerRadius="30" >
+            <Label Text="Welcome to the Calculator App challenge"  HorizontalTextAlignment="Center" TextColor="White" FontSize="30"/>
+        </Frame -->
+        <Grid BackgroundColor="#000000" Padding="10,0" RowSpacing="10" ColumnSpacing="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="DisplayLabel"
+                   Text="0" 
+                   FontSize="60"
+                   Grid.ColumnSpan="4"
+                   HorizontalTextAlignment="End"
+                   VerticalTextAlignment="Center"
+                   TextColor="White"
+                   />
+            <Button Text="AC"
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Clicked="clear"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="Del"
+                    Grid.Row="1"
+                    Grid.Column="1"
+                    Clicked="del"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="cal"
+                    Grid.Row="1"
+                    Grid.Column="2"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="/"
+                    Grid.Row="1"
+                    Grid.Column="3"
+                    Clicked="div"
+                    Background="Orange"
+                    Style="{StaticResource ButtonStyle}"
+                    />
+            <Button Text="7"
+                    Grid.Row="2"
+                    Grid.Column="0"
+                    Clicked="number7"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="8"
+                    Grid.Row="2"
+                    Grid.Column="1"
+                    Clicked="number8"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="9"
+                    Grid.Row="2"
+                    Grid.Column="2"
+                    Clicked="number9"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="*"
+                    Grid.Row="2"
+                    Grid.Column="3"
+                    Clicked="mult"
+                    Background="Orange"
+                    Style="{StaticResource ButtonStyle}"
+                    />
+            <Button Text="4"
+                    Grid.Row="3"
+                    Grid.Column="0"
+                    Clicked="number4"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="5"
+                    Grid.Row="3"
+                    Grid.Column="1"
+                    Clicked="number5"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="6"
+                    Grid.Row="3"
+                    Grid.Column="2"
+                    Clicked="number6"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="-"
+                    Grid.Row="3"
+                    Grid.Column="3"
+                    Clicked="sub"
+                    Background="Orange"
+                    Style="{StaticResource ButtonStyle}"
+                    />
+            <Button Text="1"
+                    Grid.Row="4"
+                    Grid.Column="0"
+                    Clicked="number1"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="2"
+                    Grid.Row="4"
+                    Grid.Column="1"
+                    Clicked="number2"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+
+            <Button Text="3"
+                    Grid.Row="4"
+                    Grid.Column="2"
+                    Clicked="number3"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+
+            <Button Text="+"
+                    Grid.Row="4"
+                    Grid.Column="3"
+                    Clicked="add"
+                    Background="Orange"
+                    Style="{StaticResource ButtonStyle}"
+                    />
+            <Button Text="NA"
+                    Grid.Row="5"
+                    Grid.Column="0"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="0"
+                    Grid.Row="5"
+                    Grid.Column="1"
+                    Clicked="number0"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="."
+                    Grid.Row="5"
+                    Grid.Column="2"
+                    Clicked="dot"
+                    Background="Gray"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Text="="
+                    Grid.Row="5"
+                    Grid.Column="3"
+                    Clicked="equal"
+                    Background="Orange"
+                    Style="{StaticResource ButtonStyle}"/>
+
+        </Grid>
+    
+
+</ContentPage>
