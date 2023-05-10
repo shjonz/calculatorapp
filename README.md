@@ -61,9 +61,9 @@ Video Demo
 Download the file
 1. ShjCalculatorApp/HanYiCalculatorApp
 2. Unzip at your desired location
-3. go to https://visualstudio.microsoft.com/vs/ to install visual studio IDE
+3. go to visual studio website to install visual studio IDE community - https://visualstudio.microsoft.com/downloads/
 4. Install visual studio IDE
-5. Follow this tutorial to install Xamarin Forms
+5. Follow this tutorial to install Xamarin Forms - https://learn.microsoft.com/en-us/xamarin/get-started/installation/?pivots=windows-vs2022
 6. Once installed, click on open project, click on Calculator.sln
 7. Run emulator
 
