@@ -1,5 +1,7 @@
 ## Calculator Challenge
-<img src="https://github.com/shjonz/calculatorapp/assets/81726240/ef295484-7" width="200" height="200">
+<img src="https://github.com/shjonz/calculatorapp/assets/81726240/39d3e5d2-cdd9-4863-9df5-f90361e61e3d" width="200" height="200">
+
+
 
 163 coding challenge 2020
 
@@ -39,6 +41,7 @@ Lesson plan
 
 Images
 
+![Screenshot_1683612706](https://github.com/shjonz/calculatorapp/assets/81726240/8f6ecd72-b0be-4c50-932c-7344862e8ac6)
 
 <img src="https://github.com/shjonz/calculatorapp/assets/81726240/65981200-7" width="192" height="416">
 
