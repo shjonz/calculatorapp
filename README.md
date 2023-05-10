@@ -1,5 +1,5 @@
 ## Calculator Challenge
-<img src="https://github.com/shjonz/calculatorapp/assets/81726240/39d3e5d2-cdd9-4863-9df5-f90361e61e3d" width="200" height="200">
+<img src="https://github.com/shjonz/calculatorapp/assets/81726240/39d3e5d2-cdd9-4863-9df5-f90361e61e3d" width="680" height="320">
 
 
 
@@ -41,9 +41,7 @@ Lesson plan
 
 Images
 
-![Screenshot_1683612706](https://github.com/shjonz/calculatorapp/assets/81726240/8f6ecd72-b0be-4c50-932c-7344862e8ac6)
-
-<img src="https://github.com/shjonz/calculatorapp/assets/81726240/65981200-7" width="192" height="416">
+<img src="https://github.com/shjonz/calculatorapp/assets/81726240/8f6ecd72-b0be-4c50-932c-7344862e8ac6" width="192" height="416">
 
 <img src="https://github.com/shjonz/calculatorapp/assets/81726240/f9c6889e-8c3c-4789-8efd-cd5f9b83676f" width="192" height="416">
 
