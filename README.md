@@ -78,7 +78,8 @@ Download the file
 Calculator uses C# and Xaml.
 
 
-
+## Footer
+icon taken from <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Freepik - Flaticon</a>
 
 
 
