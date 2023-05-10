@@ -40,14 +40,13 @@ Lesson plan
 Images
 
 
-<img src="[https://your-image-url.type](https://github.com/shjonz/calculatorapp/assets/81726240/65981200-7)" width="192" height="416">
+<img src="https://github.com/shjonz/calculatorapp/assets/81726240/65981200-7" width="192" height="416">
 
-<img src="![Screenshot_1683612708](https://github.com/shjonz/calculatorapp/assets/81726240/f9c6889e-8c3c-4789-8efd-cd5f9b83676f)" width="192" height="416">
+<img src="https://github.com/shjonz/calculatorapp/assets/81726240/f9c6889e-8c3c-4789-8efd-cd5f9b83676f" width="192" height="416">
 
 Video Demo
 
-[Uploading videodemo.webm…]()
-
+[videodemo.webm](https://github.com/shjonz/calculatorapp/assets/81726240/8e5e4a47-f054-4966-8a0e-a5862cdd278c)
 
 
 ## Han Yi Solution
