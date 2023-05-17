@@ -47,8 +47,7 @@ Images
 
 Video Demo
 
-[videodemo.webm](https://github.com/shjonz/calculatorapp/assets/81726240/8e5e4a47-f054-4966-8a0e-a5862cdd278c)
-
+<img src="https://github.com/shjonz/calculatorapp/assets/81726240/8e5e4a47-f054-4966-8a0e-a5862cdd278c" width="192" height="416">
 
 ## Han Yi Solution
 ----
@@ -68,7 +67,7 @@ Download the file
 7. Run emulator
 
 ```sh
-
+git clone 
 
 ```
 
